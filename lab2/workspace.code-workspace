@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../../../FER_202/CodeFER"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CodeFER"
+	}
+}
