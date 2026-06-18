@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Espresso", "category": "Coffee", "price": 2.5 },
+  { "id": 2, "name": "Cappuccino", "category": "Coffee", "price": 3.5 },
+  { "id": 3, "name": "Green Tea", "category": "Tea", "price": 2.0 },
+  { "id": 4, "name": "Croissant", "category": "Bakery", "price": 1.8 },
+  { "id": 5, "name": "Cheesecake", "category": "Dessert", "price": 4.0 }
+]
